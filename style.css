@@ -1,0 +1,12 @@
+body{
+  height: 100%;
+  text-align: center;
+}
+
+h1 {
+    color: #928e50;
+  }
+  
+  #price {
+    font-size: 4em;
+  }
